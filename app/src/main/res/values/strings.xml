@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Walrus</string>
+    <string name="logIn_mainText">Walrus is an application that will help you take better care of your pets.(no matter who they are)</string>
+    <string name="heyThere">Hey there!\nDo we Know you?</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="logIn_Button">Log in</string>
+    <string name="signUp_Button">Sign up</string>
+    <string name="name">name</string>
+    <string name="confirm">Confirm password</string>
+    <string name="hello_novice">Hello, novice.</string>
+    <string name="apply">Apply</string>
+</resources>
